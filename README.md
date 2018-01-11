@@ -1,5 +1,5 @@
 # myprojects
-This is the list of the projects I have worked on as a student
+This is the list of the projects I have worked on as a beginner and as Backend Developer.
 
 
 ## Education
